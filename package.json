@@ -1,0 +1,16 @@
+{
+  "name": "perpustakaan",
+  "version": "1.0.0",
+  "description": "Aplikasi Perpustakaan dengan Tailwind CSS v4",
+  "main": "index.php",
+  "scripts": {
+    "dev": "npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.3.0",
+    "tailwindcss": "^4.3.0"
+  }
+}
